@@ -60,3 +60,10 @@ body {
   opacity: 100%;
   transition: all 0.5s;
 }
+#accordion img:hover {
+  opacity: 50%;
+}
+#accordion img:focus {
+  width: 500px;
+  height: 380px;
+}
