@@ -32,3 +32,8 @@ body {
 .tab label:hover {
   background-color: antiquewhite;
 }
+.tab label span {
+  transform: rotate(90deg);
+  font-size: 22px;
+  color: #333;
+}
