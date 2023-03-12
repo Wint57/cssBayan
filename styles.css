@@ -63,7 +63,3 @@ body {
 #accordion img:hover {
   opacity: 50%;
 }
-#accordion img:focus {
-  width: 500px;
-  height: 380px;
-}
