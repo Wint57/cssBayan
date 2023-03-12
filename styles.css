@@ -29,3 +29,6 @@ body {
   cursor: pointer;
   color: #c20000;
 }
+.tab label:hover {
+  background-color: antiquewhite;
+}
