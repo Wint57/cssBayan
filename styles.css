@@ -50,3 +50,13 @@ body {
 #accordion input[type="radio"]:checked + label + .content {
   max-height: 400px;
 }
+#accordion input[type="radio"]:checked + label .btn {
+  transform: rotate(0deg);
+}
+#accordion img {
+  object-fit: contain;
+  width: 580px;
+  height: 400px;
+  opacity: 100%;
+  transition: all 0.5s;
+}
